@@ -29,4 +29,3 @@ eval "$(zoxide init bash)"
 
 # opencode
 export PATH=/home/atheeq/.opencode/bin:$PATH
-# watcher-selftest 1793031029
