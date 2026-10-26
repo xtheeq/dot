@@ -8,3 +8,6 @@ viteplus = "latest"
 "~/.bashrc" = { mode = "track" }
 "~/.config/mise/config.toml" = { mode = "track" }
 "~/.config/starship.toml" = { mode = "track" }
+
+[bootstrap.services.mise-history]
+builtin = "history-watch"
