@@ -1,0 +1,10 @@
+[tools]
+bun = "latest"
+node = "latest"
+pnpm = "latest"
+viteplus = "latest"
+
+[dotfiles]
+"~/.bashrc" = { mode = "track" }
+"~/.config/mise/config.toml" = { mode = "track" }
+"~/.config/starship.toml" = { mode = "track" }
