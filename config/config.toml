@@ -7,8 +7,13 @@ viteplus = "latest"
 [dotfiles]
 "~/.bashrc" = { mode = "track" }
 "~/.config/elio" = { mode = "track" }
+"~/.config/ghostty" = { mode = "track" }
+"~/.config/gitui" = { mode = "track" }
+"~/.config/helix" = { mode = "track" }
+"~/.config/mango" = { mode = "track" }
 "~/.config/mise/config.toml" = { mode = "track" }
 "~/.config/starship.toml" = { mode = "track" }
+"~/.config/zellij" = { mode = "track" }
 
 [bootstrap.services.mise-history]
 builtin = "history-watch"
