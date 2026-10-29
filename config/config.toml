@@ -6,6 +6,7 @@ viteplus = "latest"
 
 [dotfiles]
 "~/.bashrc" = { mode = "track" }
+"~/.config/elio" = { mode = "track" }
 "~/.config/mise/config.toml" = { mode = "track" }
 "~/.config/starship.toml" = { mode = "track" }
 

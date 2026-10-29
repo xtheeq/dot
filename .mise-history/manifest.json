@@ -14,6 +14,12 @@
       "variants": []
     },
     {
+      "path": "home/.config/elio",
+      "autosave": true,
+      "encrypt": false,
+      "variants": []
+    },
+    {
       "path": "home/.config/starship.toml",
       "autosave": true,
       "encrypt": false,
@@ -23,6 +29,9 @@
   "exclude": [],
   "recipients": [],
   "permissions": {
+    "home/.config/elio": 511,
+    "home/.config/elio/config.toml": 511,
+    "home/.config/elio/theme.toml": 511,
     "home/.config/starship.toml": 511
   }
 }
