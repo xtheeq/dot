@@ -3,6 +3,7 @@ bun = "latest"
 node = "latest"
 pnpm = "latest"
 taplo = "latest"
+tombi = "latest"
 viteplus = "latest"
 
 [dotfiles]
