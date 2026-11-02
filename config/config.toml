@@ -3,7 +3,6 @@ bun = "latest"
 node = "latest"
 pnpm = "latest"
 taplo = "latest"
-tombi = "latest"
 uv = "latest"
 viteplus = "latest"
 
