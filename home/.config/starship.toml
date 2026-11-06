@@ -1,5 +1,4 @@
 palette = "noctalia"
-command_timeout = 999999999999999999
 
 add_newline = true
 continuation_prompt = "[▸▹ ](dimmed white)"
