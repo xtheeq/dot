@@ -5,6 +5,7 @@ pnpm = "latest"
 taplo = "latest"
 uv = "latest"
 viteplus = "latest"
+zig = "latest"
 
 [dotfiles]
 "~/.bashrc" = { mode = "track" }
