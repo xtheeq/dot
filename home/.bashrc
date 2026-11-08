@@ -30,3 +30,6 @@ unset rc
 eval "$(mise activate bash)"
 eval "$(starship init bash)"
 eval "$(zoxide init bash)"
+
+# Vite+ bin (https://viteplus.dev)
+. "/home/atheeq/.config/vite-plus/env"
