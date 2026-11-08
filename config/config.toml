@@ -5,7 +5,6 @@ odin = "latest"
 pnpm = "latest"
 taplo = "latest"
 uv = "latest"
-viteplus = "latest"
 zig = "latest"
 zls = "latest"
 
