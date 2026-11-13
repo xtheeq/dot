@@ -27,9 +27,9 @@ if [ -d ~/.bashrc.d ]; then
 fi
 unset rc
 . "$HOME/.cargo/env"
-eval "$(mise activate bash)"
-eval "$(starship init bash)"
-eval "$(zoxide init bash)"
+# eval "$(mise activate bash)"
+# eval "$(starship init bash)"
+# eval "$(zoxide init bash)"
 
 # Vite+ bin (https://viteplus.dev)
 . "/home/atheeq/.config/vite-plus/env"
