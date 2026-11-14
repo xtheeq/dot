@@ -492,10 +492,10 @@ web_client {
 theme "catppuccin-mocha"
 terminal {
     font "JetBrains Mono"
-    padding_top 0
-    padding_right 0
-    padding_bottom 0
-    padding_left 0
+    padding_top 12
+    padding_right 12
+    padding_bottom 12
+    padding_left 12
     padding_balance false
     hide_pointer_while_typing true
 }
