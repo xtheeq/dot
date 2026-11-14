@@ -80,9 +80,6 @@
     "home/.config/mango/config.conf": 384,
     "home/.config/mango/layout.conf": 511,
     "home/.config/mango/noctalia.conf": 511,
-    "home/.config/zellij": 511,
-    "home/.config/zellij/config.kdl": 511,
-    "home/.config/zellij/themes": 511,
-    "home/.config/zellij/themes/noctalia.kdl": 511
+    "home/.config/zellij": 511
   }
 }
