@@ -508,3 +508,4 @@ ui {
         hide_session_name true
     }
 }
+default_layout "default"
