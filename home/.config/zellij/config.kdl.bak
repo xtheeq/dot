@@ -489,3 +489,13 @@ web_client {
 // Whether to show the current mode's keys in a corner while the bar that would show them is hidden
 // default is true
 // mode_hints_when_bars_hidden false
+theme "catppuccin-mocha"
+terminal {
+    font "JetBrains Mono"
+    padding_top 12
+    padding_right 12
+    padding_bottom 0
+    padding_left 12
+    padding_balance true
+    hide_pointer_while_typing true
+}

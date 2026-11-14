@@ -499,3 +499,12 @@ terminal {
     padding_balance true
     hide_pointer_while_typing true
 }
+pane_frames false
+pane_frame_style "none"
+serialize_pane_viewport true
+ui {
+    pane_frames {
+        rounded_corners true
+        hide_session_name true
+    }
+}
