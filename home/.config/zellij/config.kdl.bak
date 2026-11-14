@@ -509,3 +509,4 @@ ui {
     }
 }
 default_layout "compact"
+default_shell "nu"

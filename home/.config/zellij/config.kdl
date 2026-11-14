@@ -498,6 +498,7 @@ terminal {
     padding_left 12
     padding_balance false
     hide_pointer_while_typing true
+    scroll_momentum_friction 0.5
 }
 pane_frames false
 pane_frame_style "none"
