@@ -499,8 +499,8 @@ terminal {
     padding_balance false
     hide_pointer_while_typing true
     scroll_momentum_friction 0.5
-    opacity 0.7
-    opacity_mode "everything"
+    opacity 0.8
+    opacity_mode "background"
     blur true
 }
 pane_frames false
