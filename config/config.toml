@@ -22,3 +22,6 @@ zls = "latest"
 
 [bootstrap.services.mise-history]
 builtin = "history-watch"
+
+[history]
+exclude = ["~/.config/nushell/history.txt", "~/.config/nushell/mise.nu"]

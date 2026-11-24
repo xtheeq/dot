@@ -56,7 +56,10 @@
       "variants": []
     }
   ],
-  "exclude": [],
+  "exclude": [
+    "~/.config/nushell/history.txt",
+    "~/.config/nushell/mise.nu"
+  ],
   "recipients": [],
   "permissions": {
     "home/.config/elio": 511,
