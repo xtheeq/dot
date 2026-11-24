@@ -26,4 +26,5 @@ zls = "latest"
 builtin = "history-watch"
 
 [history]
+git_email = "xtheeq@gmail.com"
 exclude = ["~/.config/nushell/history.txt", "~/.config/nushell/mise.nu"]
