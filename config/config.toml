@@ -17,6 +17,7 @@ zls = "latest"
 "~/.config/helix" = { mode = "track" }
 "~/.config/mango" = { mode = "track" }
 "~/.config/mise/config.toml" = { mode = "track" }
+"~/.config/nushell" = { mode = "track" }
 "~/.config/starship.toml" = { mode = "track" }
 "~/.config/zellij" = { mode = "track" }
 

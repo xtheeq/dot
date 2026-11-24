@@ -44,6 +44,12 @@
       "variants": []
     },
     {
+      "path": "home/.config/nushell",
+      "autosave": true,
+      "encrypt": false,
+      "variants": []
+    },
+    {
       "path": "home/.config/starship.toml",
       "autosave": true,
       "encrypt": false,
@@ -82,6 +88,8 @@
     "home/.config/mango/binds.conf": 511,
     "home/.config/mango/config.conf": 384,
     "home/.config/mango/layout.conf": 511,
-    "home/.config/mango/noctalia.conf": 511
+    "home/.config/mango/noctalia.conf": 511,
+    "home/.config/nushell": 511,
+    "home/.config/nushell/config.nu": 511
   }
 }
