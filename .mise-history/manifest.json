@@ -56,6 +56,12 @@
       "variants": []
     },
     {
+      "path": "home/.config/umbriel",
+      "autosave": true,
+      "encrypt": false,
+      "variants": []
+    },
+    {
       "path": "home/.config/zellij",
       "autosave": true,
       "encrypt": false,
@@ -90,6 +96,7 @@
     "home/.config/mango/layout.conf": 511,
     "home/.config/mango/noctalia.conf": 511,
     "home/.config/nushell": 511,
-    "home/.config/nushell/config.nu": 511
+    "home/.config/nushell/config.nu": 511,
+    "home/.config/umbriel": 511
   }
 }

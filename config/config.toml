@@ -19,6 +19,7 @@ zls = "latest"
 "~/.config/mise/config.toml" = { mode = "track" }
 "~/.config/nushell" = { mode = "track" }
 "~/.config/starship.toml" = { mode = "track" }
+"~/.config/umbriel" = { mode = "track" }
 "~/.config/zellij" = { mode = "track" }
 
 [bootstrap.services.mise-history]
