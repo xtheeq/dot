@@ -2,7 +2,6 @@
 bun = "latest"
 "github:voidzero-dev/vite-plus" = "latest"
 node = "latest"
-odin = "latest"
 pnpm = "latest"
 taplo = "latest"
 uv = "latest"
